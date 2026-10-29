@@ -4,7 +4,7 @@
 
 In this demonstration, we will take a more in-depth look at the different capabilities of Python functions, through the use of higher order functions (functions that take other functions as arguments, and/or return functions as their result). We will then explore the use of decorators, which are a specific type of higher order function that allow us to modify the behavior of other functions in a clean and readable way.
 
-To follow along with this demonstration, please access the Worksheet [here](https://dangkhuongtran.github.io/uq-pug-decorators/lab/index.html?path=worksheet.ipynb). You can also view the completed version of the worksheet [here](https://dangkhuongtran.github.io/uq-pug-decorators/lab/index.html?path=completed_worksheet.ipynb).
+To follow along with this demonstration, please access the Worksheet [here](https://dangkhuongtran.github.io/uq-pug-decorators/notebooks/index.html?path=worksheet.ipynb). You can also view the completed version of the worksheet [here](https://dangkhuongtran.github.io/uq-pug-decorators/notebooks/index.html?path=completed_worksheet.ipynb).
 
 > [!NOTE]
 >
